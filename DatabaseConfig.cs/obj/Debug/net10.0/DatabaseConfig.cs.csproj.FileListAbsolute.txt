@@ -1,0 +1,12 @@
+C:\Users\everest\source\repos\Restaurant project\DatabaseConfig.cs\bin\Debug\net10.0\DatabaseConfig.cs.deps.json
+C:\Users\everest\source\repos\Restaurant project\DatabaseConfig.cs\bin\Debug\net10.0\DatabaseConfig.cs.dll
+C:\Users\everest\source\repos\Restaurant project\DatabaseConfig.cs\bin\Debug\net10.0\DatabaseConfig.cs.pdb
+C:\Users\everest\source\repos\Restaurant project\DatabaseConfig.cs\obj\Debug\net10.0\DatabaseConfig.cs.csproj.AssemblyReference.cache
+C:\Users\everest\source\repos\Restaurant project\DatabaseConfig.cs\obj\Debug\net10.0\DatabaseConfig.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\everest\source\repos\Restaurant project\DatabaseConfig.cs\obj\Debug\net10.0\DatabaseConfig.cs.AssemblyInfoInputs.cache
+C:\Users\everest\source\repos\Restaurant project\DatabaseConfig.cs\obj\Debug\net10.0\DatabaseConfig.cs.AssemblyInfo.cs
+C:\Users\everest\source\repos\Restaurant project\DatabaseConfig.cs\obj\Debug\net10.0\DatabaseConfig.cs.csproj.CoreCompileInputs.cache
+C:\Users\everest\source\repos\Restaurant project\DatabaseConfig.cs\obj\Debug\net10.0\DatabaseConfig.cs.dll
+C:\Users\everest\source\repos\Restaurant project\DatabaseConfig.cs\obj\Debug\net10.0\refint\DatabaseConfig.cs.dll
+C:\Users\everest\source\repos\Restaurant project\DatabaseConfig.cs\obj\Debug\net10.0\DatabaseConfig.cs.pdb
+C:\Users\everest\source\repos\Restaurant project\DatabaseConfig.cs\obj\Debug\net10.0\ref\DatabaseConfig.cs.dll

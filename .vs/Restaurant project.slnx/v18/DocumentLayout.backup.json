@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\everest\\source\\repos\\Restaurant project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A436471-9E54-4015-9B72-0C5D2B39A94B}|Restaurant project\\Restaurant project.csproj|c:\\users\\everest\\source\\repos\\restaurant project\\restaurant project\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A436471-9E54-4015-9B72-0C5D2B39A94B}|Restaurant project\\Restaurant project.csproj|solutionrelative:restaurant project\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A436471-9E54-4015-9B72-0C5D2B39A94B}|Restaurant project\\Restaurant project.csproj|C:\\Users\\everest\\source\\repos\\Restaurant project\\restaurant project\\kashier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A436471-9E54-4015-9B72-0C5D2B39A94B}|Restaurant project\\Restaurant project.csproj|solutionrelative:restaurant project\\kashier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A436471-9E54-4015-9B72-0C5D2B39A94B}|Restaurant project\\Restaurant project.csproj|C:\\Users\\everest\\source\\repos\\Restaurant project\\restaurant project\\kashier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9A436471-9E54-4015-9B72-0C5D2B39A94B}|Restaurant project\\Restaurant project.csproj|solutionrelative:restaurant project\\kashier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A436471-9E54-4015-9B72-0C5D2B39A94B}|Restaurant project\\Restaurant project.csproj|C:\\Users\\everest\\source\\repos\\Restaurant project\\restaurant project\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A436471-9E54-4015-9B72-0C5D2B39A94B}|Restaurant project\\Restaurant project.csproj|solutionrelative:restaurant project\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A436471-9E54-4015-9B72-0C5D2B39A94B}|Restaurant project\\Restaurant project.csproj|C:\\Users\\everest\\source\\repos\\Restaurant project\\restaurant project\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9A436471-9E54-4015-9B72-0C5D2B39A94B}|Restaurant project\\Restaurant project.csproj|solutionrelative:restaurant project\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A436471-9E54-4015-9B72-0C5D2B39A94B}|Restaurant project\\Restaurant project.csproj|C:\\Users\\everest\\source\\repos\\Restaurant project\\restaurant project\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9A436471-9E54-4015-9B72-0C5D2B39A94B}|Restaurant project\\Restaurant project.csproj|solutionrelative:restaurant project\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A436471-9E54-4015-9B72-0C5D2B39A94B}|Restaurant project\\Restaurant project.csproj|C:\\Users\\everest\\source\\repos\\Restaurant project\\restaurant project\\manager.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A436471-9E54-4015-9B72-0C5D2B39A94B}|Restaurant project\\Restaurant project.csproj|solutionrelative:restaurant project\\manager.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Manager.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\everest\\source\\repos\\Restaurant project\\Restaurant project\\Manager.Designer.cs",
+              "RelativeDocumentMoniker": "Restaurant project\\Manager.Designer.cs",
+              "ToolTip": "C:\\Users\\everest\\source\\repos\\Restaurant project\\Restaurant project\\Manager.Designer.cs",
+              "RelativeToolTip": "Restaurant project\\Manager.Designer.cs",
+              "ViewState": "AgIAAMsAAAAAAAAAAAAiwOoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T10:38:11.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\everest\\source\\repos\\Restaurant project\\Restaurant project\\Manager.cs",
+              "RelativeDocumentMoniker": "Restaurant project\\Manager.cs",
+              "ToolTip": "C:\\Users\\everest\\source\\repos\\Restaurant project\\Restaurant project\\Manager.cs",
+              "RelativeToolTip": "Restaurant project\\Manager.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAswKgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T10:31:06.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "loginform.cs",
+              "DocumentMoniker": "C:\\Users\\everest\\source\\repos\\Restaurant project\\Restaurant project\\loginform.cs",
+              "RelativeDocumentMoniker": "Restaurant project\\loginform.cs",
+              "ToolTip": "C:\\Users\\everest\\source\\repos\\Restaurant project\\Restaurant project\\loginform.cs",
+              "RelativeToolTip": "Restaurant project\\loginform.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwB0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T10:29:13.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "loginform.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\everest\\source\\repos\\Restaurant project\\Restaurant project\\loginform.cs",
+              "RelativeDocumentMoniker": "Restaurant project\\loginform.cs",
+              "ToolTip": "C:\\Users\\everest\\source\\repos\\Restaurant project\\Restaurant project\\loginform.cs [Design]",
+              "RelativeToolTip": "Restaurant project\\loginform.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T20:03:58.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "kashier.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\everest\\source\\repos\\Restaurant project\\Restaurant project\\kashier.cs",
+              "RelativeDocumentMoniker": "Restaurant project\\kashier.cs",
+              "ToolTip": "C:\\Users\\everest\\source\\repos\\Restaurant project\\Restaurant project\\kashier.cs [Design]",
+              "RelativeToolTip": "Restaurant project\\kashier.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T20:04:03.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Manager.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\everest\\source\\repos\\Restaurant project\\Restaurant project\\Manager.cs",
+              "RelativeDocumentMoniker": "Restaurant project\\Manager.cs",
+              "ToolTip": "C:\\Users\\everest\\source\\repos\\Restaurant project\\Restaurant project\\Manager.cs [Design]",
+              "RelativeToolTip": "Restaurant project\\Manager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T13:25:13.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "kashier.cs",
+              "DocumentMoniker": "C:\\Users\\everest\\source\\repos\\Restaurant project\\Restaurant project\\kashier.cs",
+              "RelativeDocumentMoniker": "Restaurant project\\kashier.cs",
+              "ToolTip": "C:\\Users\\everest\\source\\repos\\Restaurant project\\Restaurant project\\kashier.cs",
+              "RelativeToolTip": "Restaurant project\\kashier.cs",
+              "ViewState": "AgIAANMAAAAAAAAAAADwvxIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T10:30:51.37Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
